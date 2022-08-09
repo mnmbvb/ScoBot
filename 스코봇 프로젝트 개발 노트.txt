@@ -1,0 +1,38 @@
+스코봇 프로젝트 개발 노트
+[ScoBot 0.01(Beta)]
+ScoBot 0.01(Beta) Build 21.1014 - 스코봇 초기설정
+ScoBot 0.01(Beta) Build 21.1019 - 예상 온도 정보(Beta) 업데이트, 스코봇 개발 기록 저장
+ScoBot 0.01(Beta) Build 21.1106 - 예상 온도 정보 개선, 타자연습 정식 추가
+ScoBot 0.01(Beta) Build 21.1111 - 시간 기능 추가, url ping 기능 추가
+
+
+스코봇 아이디어 노트
+
+url ping 기능 버그 - 오류 발생시 메인 코드 중단
+
+[StrangeCodeBot™ - 스코봇™]
+"ScoBot.py" ver 0.23
+
+[How to use]
+{도움}
+;help, ;도움 : 명령어 목록을 출력해요.
+;hmd : 명령어 목록 파일을 출력해요.
+
+{명령어들}
+;랜덤 : 설정한 수 범위 사이의 무작위 수를 출력해요..
+;time, ;시간 : 현재 시간을 나타내요.
+;타자연습 : 타자연습을 진행해요.
+;날씨 : 현재 날씨/온도를 출력합니다.
+
+{테스트}
+;test : 스코봇이 정상 작동중인지 테스트해요. DM 메세지로 와요.
+스코봇 : 스코봇을 불러와요.
+;ping : 스코봇의 현재 접속 상태를 나타내요. (;ping {url}로 해당 주소의 세부 사항을 확인해요.)
+
+{관리}
+;ivt, ;초대 : 봇 초대 링크를 출력해요.
+;sctl : strangecode discord방 링크를 출력해요.
+;del : a개의 메세지를 삭제해요. (;del a)
+
+Copyright 2021. StrangeCodeTeam All rights reserved.
+스코봇™은 StrangeCode의 공식 봇으로서, SCT의 관리자에게 소유권이 있습니다.
